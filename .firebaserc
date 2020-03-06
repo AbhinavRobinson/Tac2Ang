@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tictac2angular": {
+      "hosting": {
+        "Tac2Ang": [
+          "tictac2angular"
+        ]
+      }
+    }
+  }
+}

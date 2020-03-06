@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "Tac2Ang",
+      "public": "dist/Tac2Ang",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}
